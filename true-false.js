@@ -5,7 +5,7 @@ Falsy:
 Truthy:
 '0', ' ', [], {}, true.
 */
-let name = {};
+let name = '';
 if(name){
     console.log("condition is true");
 }
