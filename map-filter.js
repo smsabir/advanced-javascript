@@ -19,7 +19,7 @@ const result  = numbers.map(function(element){
  // Arrow function
  const result2 = numbers.map(x => x * x); // x is element here.
 
-console.log(result2);
+//console.log(result2);
 
 // filter return an array where find return element.
 const greater = numbers.filter(x => x > 5);
